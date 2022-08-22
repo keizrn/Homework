@@ -1,0 +1,15 @@
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.csproj.AssemblyReference.cache
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.AssemblyInfoInputs.cache
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.AssemblyInfo.cs
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.csproj.CoreCompileInputs.cache
+D:\Practice\CS\HW\Homework\HW001\Task08\bin\Debug\net6.0\Task08.exe
+D:\Practice\CS\HW\Homework\HW001\Task08\bin\Debug\net6.0\Task08.deps.json
+D:\Practice\CS\HW\Homework\HW001\Task08\bin\Debug\net6.0\Task08.runtimeconfig.json
+D:\Practice\CS\HW\Homework\HW001\Task08\bin\Debug\net6.0\Task08.dll
+D:\Practice\CS\HW\Homework\HW001\Task08\bin\Debug\net6.0\Task08.pdb
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.dll
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\refint\Task08.dll
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.pdb
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\Task08.genruntimeconfig.cache
+D:\Practice\CS\HW\Homework\HW001\Task08\obj\Debug\net6.0\ref\Task08.dll
