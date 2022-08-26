@@ -1,5 +1,5 @@
 ﻿// shows third digit in any number, or informs that there is no such digit
-// Not for self: BEWARE that 0 hundreds is not the same as No Hundreds!!
+// Note for self: BEWARE that 0 hundreds is not the same as No Hundreds!!
 
 Console.WriteLine("This program will show the amount of hundreds in your number. Please input number.. ");
 int num = int.Parse(Console.ReadLine());
