@@ -10,7 +10,7 @@ double PowerFunction0(int number0, int power0)
     return result0;
 }
 
-Console.WriteLine("Input number..");
+Console.WriteLine("Input number to exponentiate..");
 string string1 = Console.ReadLine();
 bool check1 = int.TryParse(string1, out int number1);
 
