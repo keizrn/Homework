@@ -18,7 +18,7 @@ int[] SortArray1(int[] array1)
     {
         for (int j = i + 1; j < array1.Length; j++)
         {
-            if (array1[j] < array1[i])
+            if (array1[j] > array1[i])
             {
                 temp1 = array1[j];
                 array1[j] = array1[i];
