@@ -6,7 +6,7 @@ void FillMatrix1(int[,] matrix1)
     {
         for (int l = 0; l < matrix1.GetLength(1); l++)
         {
-            matrix1[k,l] = new Random().Next(1,100);
+            matrix1[k,l] = new Random().Next(1,10);
         }
     }
 }
