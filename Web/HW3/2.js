@@ -1,14 +1,12 @@
 "use strict";
-
-
   
-function name_Hello(n_1) {
-    if (n_1 == "") {
+function nameHello(name) {
+    if (name == "") {
         alert("Вы, кстати, не представились...");
     }
     else {
-    console.log(`Здравствуйте, ${n_1}`);
+        console.log(`Здравствуйте, ${name}`);
     }
 }
-let name_1 = prompt("Введите ваше имя..");
-name_Hello(name_1);
+let nameUser = prompt("Введите ваше имя..");
+nameHello(nameUser);
